@@ -14,3 +14,11 @@
 📝 **My GitHub Stats**
 - Here, I'll be regularly updating my progress and the projects I am working on. Stay tuned!
 ![Qin-shihuang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qin-shihuang&show_icons=true)
+
+### Recent Activity
+
+This is a list of my most recent activity on GitHub.
+
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update-->
