@@ -20,13 +20,13 @@
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 15 commit(s) to [Qin-shihuang/Files](https://github.com/Qin-shihuang/Files)<br>
-2. ❗️ Opened issue [#14365](https://github.com/files-community/Files/issues/14365) in [files-community/Files](https://github.com/files-community/Files)<br>
-3. ⬆️ Pushed 1 commit(s) to [Qin-shihuang/BUAA_CO_2023](https://github.com/Qin-shihuang/BUAA_CO_2023)<br>
-4. ⬆️ Pushed 3 commit(s) to [Qin-shihuang/BUAA_CO_2023](https://github.com/Qin-shihuang/BUAA_CO_2023)<br>
-5. ⭐ Starred [Qin-shihuang/BUAA_CO_2023](https://github.com/Qin-shihuang/BUAA_CO_2023)<br>
+1. ⬆️ Pushed 11 commit(s) to [Qin-shihuang/Files](https://github.com/Qin-shihuang/Files)<br>
+2. ⬆️ Pushed 15 commit(s) to [Qin-shihuang/Files](https://github.com/Qin-shihuang/Files)<br>
+3. ❗️ Opened issue [#14365](https://github.com/files-community/Files/issues/14365) in [files-community/Files](https://github.com/files-community/Files)<br>
+4. ⬆️ Pushed 1 commit(s) to [Qin-shihuang/BUAA_CO_2023](https://github.com/Qin-shihuang/BUAA_CO_2023)<br>
+5. ⬆️ Pushed 3 commit(s) to [Qin-shihuang/BUAA_CO_2023](https://github.com/Qin-shihuang/BUAA_CO_2023)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, January 10th, 2024, 9:32:32 AM
+Last Updated: Wednesday, January 10th, 2024, 10:08:07 AM
 <!--RECENT_ACTIVITY:last_update_end-->
