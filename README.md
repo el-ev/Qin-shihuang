@@ -20,13 +20,13 @@
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [Qin-shihuang/BUAA-OO-2024](https://github.com/Qin-shihuang/BUAA-OO-2024)<br>
-2. ⬆️ Pushed 1 commit(s) to [Qin-shihuang/OPD-OJ](https://github.com/Qin-shihuang/OPD-OJ)<br>
-3. 📔 Created new repository [Qin-shihuang/OPD-OJ](https://github.com/Qin-shihuang/OPD-OJ)<br>
-4. ⭐ Starred [localsend/localsend](https://github.com/localsend/localsend)<br>
-5. ⬆️ Pushed 1 commit(s) to [Qin-shihuang/dpooj](https://github.com/Qin-shihuang/dpooj)<br>
+1. ⭐ Starred [ogham/exa](https://github.com/ogham/exa)<br>
+2. 📔 Created new repository [Qin-shihuang/BUAA-OO-2024](https://github.com/Qin-shihuang/BUAA-OO-2024)<br>
+3. ⬆️ Pushed 1 commit(s) to [Qin-shihuang/OPD-OJ](https://github.com/Qin-shihuang/OPD-OJ)<br>
+4. 📔 Created new repository [Qin-shihuang/OPD-OJ](https://github.com/Qin-shihuang/OPD-OJ)<br>
+5. ⭐ Starred [localsend/localsend](https://github.com/localsend/localsend)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, March 23rd, 2024, 7:11:30 AM
+Last Updated: Saturday, March 23rd, 2024, 8:12:45 AM
 <!--RECENT_ACTIVITY:last_update_end-->
