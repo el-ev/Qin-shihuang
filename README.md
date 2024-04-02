@@ -20,13 +20,13 @@
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ogham/exa](https://github.com/ogham/exa)<br>
-2. 📔 Created new repository [Qin-shihuang/BUAA-OO-2024](https://github.com/Qin-shihuang/BUAA-OO-2024)<br>
-3. ⬆️ Pushed 1 commit(s) to [Qin-shihuang/OPD-OJ](https://github.com/Qin-shihuang/OPD-OJ)<br>
-4. 📔 Created new repository [Qin-shihuang/OPD-OJ](https://github.com/Qin-shihuang/OPD-OJ)<br>
-5. ⭐ Starred [localsend/localsend](https://github.com/localsend/localsend)<br>
+1. ❌ Closed PR [#1](https://github.com/cxchhh/dpooj/pull/1) in [cxchhh/dpooj](https://github.com/cxchhh/dpooj)<br>
+2. ⭐ Starred [ogham/exa](https://github.com/ogham/exa)<br>
+3. 📔 Created new repository [Qin-shihuang/BUAA-OO-2024](https://github.com/Qin-shihuang/BUAA-OO-2024)<br>
+4. ⬆️ Pushed 1 commit(s) to [Qin-shihuang/OPD-OJ](https://github.com/Qin-shihuang/OPD-OJ)<br>
+5. 📔 Created new repository [Qin-shihuang/OPD-OJ](https://github.com/Qin-shihuang/OPD-OJ)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, April 2nd, 2024, 3:11:05 PM
+Last Updated: Tuesday, April 2nd, 2024, 4:14:56 PM
 <!--RECENT_ACTIVITY:last_update_end-->
