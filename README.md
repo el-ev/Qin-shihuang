@@ -20,13 +20,13 @@
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [MOS-Rust/mos](https://github.com/MOS-Rust/mos)<br>
-2. ⬆️ Pushed 1 commit(s) to [MOS-Rust/mos](https://github.com/MOS-Rust/mos)<br>
-3. ⬆️ Pushed 1 commit(s) to [MOS-Rust/mos](https://github.com/MOS-Rust/mos)<br>
-4. ⬆️ Pushed 1 commit(s) to [Qin-shihuang/BUAA-OS-2024](https://github.com/Qin-shihuang/BUAA-OS-2024)<br>
-5. ⬆️ Pushed 1 commit(s) to [MOS-Rust/.github](https://github.com/MOS-Rust/.github)<br>
+1. ⭐ Starred [Qin-shihuang/BUAA-Teacher-Evaluation](https://github.com/Qin-shihuang/BUAA-Teacher-Evaluation)<br>
+2. ⬆️ Pushed 1 commit(s) to [Qin-shihuang/BUAA-Teacher-Evaluation](https://github.com/Qin-shihuang/BUAA-Teacher-Evaluation)<br>
+3. 📔 Created new repository [Qin-shihuang/BUAA-Teacher-Evaluation](https://github.com/Qin-shihuang/BUAA-Teacher-Evaluation)<br>
+4. ⬆️ Pushed 1 commit(s) to [MOS-Rust/mos](https://github.com/MOS-Rust/mos)<br>
+5. ⬆️ Pushed 1 commit(s) to [MOS-Rust/mos](https://github.com/MOS-Rust/mos)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, June 24th, 2024, 4:15:19 AM
+Last Updated: Monday, June 24th, 2024, 5:12:27 AM
 <!--RECENT_ACTIVITY:last_update_end-->
