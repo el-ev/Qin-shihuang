@@ -21,12 +21,12 @@ This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [Qin-shihuang/BUAA-Teacher-Evaluation](https://github.com/Qin-shihuang/BUAA-Teacher-Evaluation)<br>
-2. ⭐ Starred [Qin-shihuang/BUAA-Teacher-Evaluation](https://github.com/Qin-shihuang/BUAA-Teacher-Evaluation)<br>
-3. ⬆️ Pushed 1 commit(s) to [Qin-shihuang/BUAA-Teacher-Evaluation](https://github.com/Qin-shihuang/BUAA-Teacher-Evaluation)<br>
-4. 📔 Created new repository [Qin-shihuang/BUAA-Teacher-Evaluation](https://github.com/Qin-shihuang/BUAA-Teacher-Evaluation)<br>
-5. ⬆️ Pushed 1 commit(s) to [MOS-Rust/mos](https://github.com/MOS-Rust/mos)<br>
+2. ⬆️ Pushed 1 commit(s) to [Qin-shihuang/BUAA-Teacher-Evaluation](https://github.com/Qin-shihuang/BUAA-Teacher-Evaluation)<br>
+3. ⭐ Starred [Qin-shihuang/BUAA-Teacher-Evaluation](https://github.com/Qin-shihuang/BUAA-Teacher-Evaluation)<br>
+4. ⬆️ Pushed 1 commit(s) to [Qin-shihuang/BUAA-Teacher-Evaluation](https://github.com/Qin-shihuang/BUAA-Teacher-Evaluation)<br>
+5. 📔 Created new repository [Qin-shihuang/BUAA-Teacher-Evaluation](https://github.com/Qin-shihuang/BUAA-Teacher-Evaluation)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, June 25th, 2024, 4:16:02 PM
+Last Updated: Tuesday, June 25th, 2024, 5:12:19 PM
 <!--RECENT_ACTIVITY:last_update_end-->
