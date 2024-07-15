@@ -20,13 +20,13 @@
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 382 commit(s) to [Qin-shihuang/Files](https://github.com/Qin-shihuang/Files)<br>
-2. ⬆️ Pushed 2 commit(s) to [Qin-shihuang/haskell-mooc](https://github.com/Qin-shihuang/haskell-mooc)<br>
-3. ⬆️ Pushed 1 commit(s) to [Qin-shihuang/haskell-mooc](https://github.com/Qin-shihuang/haskell-mooc)<br>
-4. ⭐ Starred [SerenityOS/serenity](https://github.com/SerenityOS/serenity)<br>
-5. ⬆️ Pushed 1 commit(s) to [Qin-shihuang/haskell-mooc](https://github.com/Qin-shihuang/haskell-mooc)<br>
+1. ✔️ Closed issue [#11](https://github.com/MOS-Rust/kernel/issues/11) in [MOS-Rust/kernel](https://github.com/MOS-Rust/kernel)<br>
+2. ⬆️ Pushed 382 commit(s) to [Qin-shihuang/Files](https://github.com/Qin-shihuang/Files)<br>
+3. ⬆️ Pushed 2 commit(s) to [Qin-shihuang/haskell-mooc](https://github.com/Qin-shihuang/haskell-mooc)<br>
+4. ⬆️ Pushed 1 commit(s) to [Qin-shihuang/haskell-mooc](https://github.com/Qin-shihuang/haskell-mooc)<br>
+5. ⭐ Starred [SerenityOS/serenity](https://github.com/SerenityOS/serenity)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, July 15th, 2024, 6:20:01 AM
+Last Updated: Monday, July 15th, 2024, 7:12:20 AM
 <!--RECENT_ACTIVITY:last_update_end-->
