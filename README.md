@@ -3,7 +3,8 @@
 📚 **About Me**
 - 👋 Hi there! I'm ~~Qin-shihuang~~(Smile).
 - 🎓 I'm currently an undergraduate student at some random university in China.
-- 🌱 I'm currently learning C#, Haskell and Rust.
+- 🚀 I can use C, C#, Java, Python and Rust at some extent.
+- 🌱 I'm currently learning Haskell.
 
 📫 **Get in Touch**
 - Feel free to reach out to me for collaborations, learning together, or just for a chat about programming!
