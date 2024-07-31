@@ -21,13 +21,13 @@
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 14 commit(s) to [Qin-shihuang/Files](https://github.com/Qin-shihuang/Files)<br>
-2. ⬆️ Pushed 1 commit(s) to [Qin-shihuang/Files](https://github.com/Qin-shihuang/Files)<br>
-3. ⬆️ Pushed 1 commit(s) to [Qin-shihuang/Files](https://github.com/Qin-shihuang/Files)<br>
-4. ⬆️ Pushed 1 commit(s) to [Qin-shihuang/Files](https://github.com/Qin-shihuang/Files)<br>
+1. ⬆️ Pushed 1 commit(s) to [Qin-shihuang/OsKeRnEl2O24-GeneralOS-Rust-RiscV](https://github.com/Qin-shihuang/OsKeRnEl2O24-GeneralOS-Rust-RiscV)<br>
+2. 📔 Created new repository [Qin-shihuang/OsKeRnEl2O24-GeneralOS-Rust-RiscV](https://github.com/Qin-shihuang/OsKeRnEl2O24-GeneralOS-Rust-RiscV)<br>
+3. ⭐ Starred [rcore-os/trapframe-rs](https://github.com/rcore-os/trapframe-rs)<br>
+4. ⬆️ Pushed 14 commit(s) to [Qin-shihuang/Files](https://github.com/Qin-shihuang/Files)<br>
 5. ⬆️ Pushed 1 commit(s) to [Qin-shihuang/Files](https://github.com/Qin-shihuang/Files)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, July 31st, 2024, 5:13:21 PM
+Last Updated: Wednesday, July 31st, 2024, 6:16:46 PM
 <!--RECENT_ACTIVITY:last_update_end-->
