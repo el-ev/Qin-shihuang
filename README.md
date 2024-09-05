@@ -23,13 +23,13 @@
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Qin-shihuang/mips-fuzzer](https://github.com/Qin-shihuang/mips-fuzzer)<br>
-2. 📔 Created new repository [Qin-shihuang/house](https://github.com/Qin-shihuang/house)<br>
-3. 📔 Created new repository [Qin-shihuang/simple-assignment-template](https://github.com/Qin-shihuang/simple-assignment-template)<br>
-4. ⬆️ Pushed 3 commit(s) to [Qin-shihuang/write-yourself-a-scheme-in-48-hours](https://github.com/Qin-shihuang/write-yourself-a-scheme-in-48-hours)<br>
+1. ⬆️ Pushed 2 commit(s) to [Qin-shihuang/mips-fuzzer](https://github.com/Qin-shihuang/mips-fuzzer)<br>
+2. ⬆️ Pushed 1 commit(s) to [Qin-shihuang/mips-fuzzer](https://github.com/Qin-shihuang/mips-fuzzer)<br>
+3. 📔 Created new repository [Qin-shihuang/house](https://github.com/Qin-shihuang/house)<br>
+4. 📔 Created new repository [Qin-shihuang/simple-assignment-template](https://github.com/Qin-shihuang/simple-assignment-template)<br>
 5. ⬆️ Pushed 3 commit(s) to [Qin-shihuang/write-yourself-a-scheme-in-48-hours](https://github.com/Qin-shihuang/write-yourself-a-scheme-in-48-hours)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, September 5th, 2024, 7:11:13 PM
+Last Updated: Thursday, September 5th, 2024, 8:14:25 PM
 <!--RECENT_ACTIVITY:last_update_end-->
