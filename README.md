@@ -23,13 +23,13 @@
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [TheSnowfield/elkernel](https://github.com/TheSnowfield/elkernel)<br>
-2. ⬆️ Pushed 1 commit(s) to [Qin-shihuang/BUAA-ics-gen](https://github.com/Qin-shihuang/BUAA-ics-gen)<br>
+1. ⬆️ Pushed 1 commit(s) to [Qin-shihuang/BUAA-ics-gen](https://github.com/Qin-shihuang/BUAA-ics-gen)<br>
+2. ⭐ Starred [TheSnowfield/elkernel](https://github.com/TheSnowfield/elkernel)<br>
 3. ⬆️ Pushed 1 commit(s) to [Qin-shihuang/BUAA-ics-gen](https://github.com/Qin-shihuang/BUAA-ics-gen)<br>
 4. ⬆️ Pushed 1 commit(s) to [Qin-shihuang/BUAA-ics-gen](https://github.com/Qin-shihuang/BUAA-ics-gen)<br>
-5. 📔 Created new repository [Qin-shihuang/BUAA-ics-gen](https://github.com/Qin-shihuang/BUAA-ics-gen)<br>
+5. ⬆️ Pushed 1 commit(s) to [Qin-shihuang/BUAA-ics-gen](https://github.com/Qin-shihuang/BUAA-ics-gen)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, September 9th, 2024, 11:11:44 AM
+Last Updated: Monday, September 9th, 2024, 12:27:38 PM
 <!--RECENT_ACTIVITY:last_update_end-->
