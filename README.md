@@ -23,13 +23,13 @@
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [Qin-shihuang/BUAA-Compiler-2024-Java](https://github.com/Qin-shihuang/BUAA-Compiler-2024-Java)<br>
-2. ⬆️ Pushed 1 commit(s) to [Qin-shihuang/online_status](https://github.com/Qin-shihuang/online_status)<br>
+1. ⭐ Starred [ap0stader/ASysyCompilerJudge](https://github.com/ap0stader/ASysyCompilerJudge)<br>
+2. 📔 Created new repository [Qin-shihuang/BUAA-Compiler-2024-Java](https://github.com/Qin-shihuang/BUAA-Compiler-2024-Java)<br>
 3. ⬆️ Pushed 1 commit(s) to [Qin-shihuang/online_status](https://github.com/Qin-shihuang/online_status)<br>
 4. ⬆️ Pushed 1 commit(s) to [Qin-shihuang/online_status](https://github.com/Qin-shihuang/online_status)<br>
 5. ⬆️ Pushed 1 commit(s) to [Qin-shihuang/online_status](https://github.com/Qin-shihuang/online_status)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, September 19th, 2024, 2:13:04 PM
+Last Updated: Thursday, September 19th, 2024, 3:14:47 PM
 <!--RECENT_ACTIVITY:last_update_end-->
