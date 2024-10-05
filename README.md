@@ -23,13 +23,13 @@
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Qin-shihuang/fragments](https://github.com/Qin-shihuang/fragments)<br>
-2. ⬆️ Pushed 10 commit(s) to [Qin-shihuang/fragments](https://github.com/Qin-shihuang/fragments)<br>
-3. ⭐ Starred [mit-pdos/sigmaos](https://github.com/mit-pdos/sigmaos)<br>
-4. ⬆️ Pushed 2 commit(s) to [Qin-shihuang/fragments](https://github.com/Qin-shihuang/fragments)<br>
-5. ⬆️ Pushed 6 commit(s) to [Qin-shihuang/fragments](https://github.com/Qin-shihuang/fragments)<br>
+1. ⭐ Starred [haruki1953/bangumi-list-vue3](https://github.com/haruki1953/bangumi-list-vue3)<br>
+2. ⬆️ Pushed 1 commit(s) to [Qin-shihuang/fragments](https://github.com/Qin-shihuang/fragments)<br>
+3. ⬆️ Pushed 10 commit(s) to [Qin-shihuang/fragments](https://github.com/Qin-shihuang/fragments)<br>
+4. ⭐ Starred [mit-pdos/sigmaos](https://github.com/mit-pdos/sigmaos)<br>
+5. ⬆️ Pushed 2 commit(s) to [Qin-shihuang/fragments](https://github.com/Qin-shihuang/fragments)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, October 5th, 2024, 8:17:34 AM
+Last Updated: Saturday, October 5th, 2024, 9:16:03 AM
 <!--RECENT_ACTIVITY:last_update_end-->
