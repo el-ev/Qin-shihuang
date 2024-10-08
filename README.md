@@ -1,7 +1,7 @@
 ### 🌟 Welcome there! 🌟
 
 📚 **About Me**
-- 👋 Hi there! I'm ~~Qin-shihuang~~(Smile).
+- 👋 Hi there!
 - 🎓 I'm currently an undergraduate student at some random university in China.
 - 🚀 I can use C, C#, Java, Python and Rust at some extent.
 - 🌱 I'm currently learning Haskell.
@@ -15,9 +15,9 @@
 📝 **My GitHub Stats**
 - Here, I'll be regularly updating my progress and the projects I am working on. Stay tuned!
 
-![Qin-shihuang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qin-shihuang&show_icons=true)
+![离's GitHub stats](https://github-readme-stats.vercel.app/api?username=el-ev&show_icons=true)
 
-![Language Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Qin-shihuang)
+![Language Card](https://github-readme-stats.vercel.app/api/top-langs/?username=el-ev)
 ### Recent Activity
 
 This is a list of my most recent activity on GitHub.
@@ -31,5 +31,5 @@ This is a list of my most recent activity on GitHub.
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, October 8th, 2024, 6:20:33 AM
+Last Updated: Tuesday, October 8th, 2024, 5:14:06 AM
 <!--RECENT_ACTIVITY:last_update_end-->
